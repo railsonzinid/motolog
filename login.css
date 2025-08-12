@@ -47,10 +47,12 @@ form{
   border-radius: 8px;
   cursor: pointer;
   font-weight: bold;
+  margin: 3px;
 }
 button:hover {
   background-color: #005ecc;
 }
+
 
 .error-msg {
   color: red;
